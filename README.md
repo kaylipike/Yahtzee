@@ -95,7 +95,7 @@ At the end of the game, the final scores for both players are displayed, and the
 
 ---
 
-## 📫 Contact
+## Contact
 
 For questions, feedback, or collaboration inquiries, please contact:
 **Email:** [knpike@uvm.edu](mailto:knpike@uvm.edu)
